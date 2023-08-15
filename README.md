@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindos! 👋
 
-<!--
-**fp-costa91/fp-costa91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Filipe! Empreendedor, Engenheiro Civil, estudante da graduação em Ciência de Dados pela Estácio de Sá 
+e do Bootcamp TripleTen Brasil-Angola de Data Science.
 
-Here are some ideas to get you started:
+### Minhas principais habilidades:
+-Python (Pandas, Numpy, Scipy, StatsModels)\
+-SQL\
+-Visualização( Matplotlib, Plotly, Seaborn)\
+-ML (Sklearn)\
+-Power BI\
+-Análise Estatística dos Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
