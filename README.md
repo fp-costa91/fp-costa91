@@ -11,5 +11,8 @@ e do Bootcamp TripleTen Brasil-Angola de Data Science.
 -Power BI\
 -Análise Estatística dos Dados
 
+### Sobre mim:
+Como já antecipado, sou também empreendedor! Sou proprietário da **ARENA INFANTARIA F2**, lugar aonde amo estar e praticar meus esportes (Crossfit e Levantamento de Peso Olímpico !🏋️‍♀️)
+
 
 
