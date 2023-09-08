@@ -17,12 +17,12 @@ Ao longo dos processos no empreendedorismo, eu adquiri capacidades que foram pri
 
 
 ### Minhas principais habilidades:
--Python (Pandas, Numpy, Scipy, StatsModels)\
--SQL\
--Visualização( Matplotlib, Plotly, Seaborn)\
--ML (Sklearn)\
--Power BI\
--Análise Estatística dos Dados
+* **Python (Pandas, Numpy, Scipy, StatsModels)**\
+* **SQL**\
+* **Visualização( Matplotlib, Plotly, Seaborn)**\
+* **ML (Sklearn)**\
+* **Power BI**\
+* **Análise Estatística dos Dados**
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
