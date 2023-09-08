@@ -1,7 +1,6 @@
-### Bem vindos, Filipe aqui! 👋
+### Bem vindos, Filipe Pereira aqui! 👋
 
-Meu nome é Filipe! Empreendedor, estudante da graduação em Ciência de Dados pela Estácio de Sá 
-e do Bootcamp TripleTen Brasil-Angola de Data Science.📚\
+Empreendedor, estudante da graduação em Ciência de Dados pela Estácio de Sá e do Bootcamp TripleTen Brasil-Angola de Data Science.📚\
 
 No Bootcamp, desenvolvi diversos projetos e aprendi muito sobre as principais bibliotecas Python (pandas, numpy, matplotlib, plotly, scipy, scikit learn, entre outras),
 soluções para negócios utilizando Machine Learning, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei horas incontáveis ​​limpando, transformando e pré-processando conjuntos de dados.📊
