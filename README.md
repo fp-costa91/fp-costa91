@@ -24,7 +24,8 @@ Ao longo dos processos no empreendedorismo, eu adquiri capacidades que foram pri
 * **Power BI**
 * **Análise Estatística dos Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+ ![image](https://github.com/fp-costa91/fp-costa91/assets/128493989/688d1794-5990-4839-b4c5-52c75ff6fd67)
+
 
 
 ## Conte-me mais sobre você!
