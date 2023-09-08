@@ -28,7 +28,7 @@ Ao longo dos processos no empreendedorismo, eu adquiri capacidades que foram pri
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 
-# Conte-me mais sobre você!
+## Conte-me mais sobre você!
 
 ![image](https://github.com/fp-costa91/fp-costa91/assets/128493989/6aa64bee-042f-475f-b50f-7485278d7251)[Linkedin](https://www.linkedin.com/in/filipe-pereira-b79953284/)
 📧 [filipepereira.eng@hotmail.com](filipepereira.eng@hotmail.com)
