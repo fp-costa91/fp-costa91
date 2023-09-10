@@ -35,6 +35,20 @@ Ao longo dos processos no empreendedorismo, eu adquiri capacidades que foram pri
 📲 [Whatsapp](https://whats.link/filipepereirads)
 
 
+## Veja Alguns dos meus projetos desenvolvidos:
+
+| NOME DO PROJETO |   LINK    |   LINGUAGEM E FERRAMENTAS  |                    OBSERVAÇÃO                     |
+| --------------- | --------- | ------------ | ------------------------------------------------- |
+| Predições para Sistema Bancário | [predict.finance](https://github.com/fp-costa91/predict.sistema_financeiro) | Python,ML,Numpy,Matplotlib | O objetivo deste projeto é prever se um determinado cliente deixará o banco em breve.Para a análise dos dados, desenvolvimento e criação neste projeto, é utilizado além do Pandas, o Matplotlib, Numpy e informações de modelos de Machine Learning (sklearn) para encontrar o melhor resultado. Balanceamento do conjunto de dados, utilizando uma amostra reduzida para exemplificar o problema de desequilíbrio de classes.Criação e desenvolvimento do modelo de melhor desempenho. |
+| Predições para Valor de Mercado de Veículos | [predict.valuecar](https://github.com/fp-costa91/predict_value_car) | Python,ML,Codificação Ordinal | Desenvolvimento de um aplicativo de venda de veículos para atrair novos clientes.É realizada a visualização, tratamento e análise de dados, utilizando a biblioteca Pandas. Desenvolvimento de aprendizado de máquina (sklearning, Gradient Boosting), para a criação de um modelo que determina com qualidade e velocidade o valor do mercado do veículo |
+| Processamento e Mineração do Ouro | [sklearn.gold](https://github.com/fp-costa91/mineracao_ouro) | Python,Numpy,ML, Matplotlib, Seaborn | Criação e desenvolvimento de um modelo (Machine Learning), capaz de prever a quantidade de ouro puro extraído do minério, utilizando informações do banco de dados. Tratamento e Análise de dados. Criação de um modelo de máquina capaz de otimizar a produção e geração de relatórios utilizando gráficos.|
+| Teste de Hipóteses para APP de Viagens | [test.app](https://github.com/fp-costa91/hipoteses_appviagens) | Python,Scipy,Math,Numpy,Matplotlib | Criação de teste de hipóteses para um aplicativo de viagens. Verifique se em um determinado dia com condições adversas, a duração das viagens sofrem alterações. Realizei o tratamento, enriquecimento e análise de dados. Geração de gráficos utilizando Matplotlib para visualização. Após os processos, apliquei o teste de hipóteses (Scipy) e a elaboração de relatórios.|
+| Modelo de ML para Operadora de Telefonia | [ml.telephony](https://github.com/fp-costa91/operadora.telefonia) | Python,Sklearn,Numpy,Pandas| O objetivo do trabalho é desenvolver um modelo com a maior precisão possível, capaz de analisar o comportamento do usuário e recomendar planos de acordo com cada perfil. Modelos aplicados: Floresta Aleatória,Regressão Logística e Árvore de Decisão.|
+
+
+
+
+
 
 
 
