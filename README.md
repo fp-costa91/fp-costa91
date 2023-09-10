@@ -35,7 +35,7 @@ Ao longo dos processos no empreendedorismo, eu adquiri capacidades que foram pri
 📲 [Whatsapp](https://whats.link/filipepereirads)
 
 
-## Veja Alguns dos meus projetos desenvolvidos:
+## Alguns dos meus projetos desenvolvidos:
 
 | NOME DO PROJETO |   LINK    |   LINGUAGEM E FERRAMENTAS  |                    OBSERVAÇÃO                     |
 | --------------- | --------- | ------------ | ------------------------------------------------- |
@@ -44,6 +44,9 @@ Ao longo dos processos no empreendedorismo, eu adquiri capacidades que foram pri
 | Processamento e Mineração do Ouro | [sklearn.gold](https://github.com/fp-costa91/mineracao_ouro) | Python,Numpy,ML, Matplotlib, Seaborn | Criação e desenvolvimento de um modelo (Machine Learning), capaz de prever a quantidade de ouro puro extraído do minério, utilizando informações do banco de dados. Tratamento e Análise de dados. Criação de um modelo de máquina capaz de otimizar a produção e geração de relatórios utilizando gráficos.|
 | Teste de Hipóteses para APP de Viagens | [test.app](https://github.com/fp-costa91/hipoteses_appviagens) | Python,Scipy,Math,Numpy,Matplotlib | Criação de teste de hipóteses para um aplicativo de viagens. Verifique se em um determinado dia com condições adversas, a duração das viagens sofrem alterações. Realizei o tratamento, enriquecimento e análise de dados. Geração de gráficos utilizando Matplotlib para visualização. Após os processos, apliquei o teste de hipóteses (Scipy) e a elaboração de relatórios.|
 | Modelo de ML para Operadora de Telefonia | [ml.telephony](https://github.com/fp-costa91/operadora.telefonia) | Python,Sklearn,Numpy,Pandas| O objetivo do trabalho é desenvolver um modelo com a maior precisão possível, capaz de analisar o comportamento do usuário e recomendar planos de acordo com cada perfil. Modelos aplicados: Floresta Aleatória,Regressão Logística e Árvore de Decisão.|
+| ML (Regressão Linear) para Perfuração de Poços de Petróleo | [linear.regression_oil](https://github.com/fp-costa91/regressao.linear_petroleo) | Python,Numpy,ML(mse) | O trabalho realizado tem o objetivo de criar um modelo que seja capaz de prever os melhores locais para a perfuração de poços de petróleo. Modelo utilizado; Regressão Linear. |
+| Análise e Verificação de Padrões de jogos | [analysis.test_play](https://github.com/fp-costa91/analise_jogos) | Python,Pandas, Scipy,Numpy,Math,Matplotlib | Neste projeto, analisei e tratei os dados para estudar padrões que avaliam o sucesso dos jogos ao longos dos anos. Também, foi aplicato **TESTE DE HIPÓTESES** para fins de comparação entre categorias.|
+
 
 
 
