@@ -9,7 +9,7 @@ Trabalho principalmente com Python e SQL para desenvolver análises exploratóri
 
 Sou apaixonado por esportes!!! Tanto que, em 2021 decidi empreender com o Arena IF2, um complexo esportivo e 
 áreas relacionadas, como fisioterapia, quiropraxia e pilates!🏋️‍♂️
-Ao longo dos processos no empreendedorismo, eu reuni capacidades que foram primordiais para o meu desenvolvimento pessoal e profissional, como:
+Ao longo dos processos no empreendedorismo, eu acumulei capacidades que foram primordiais para o meu desenvolvimento pessoal e profissional, como:
 
 * 💰**Geração de relatórios financeiro, qualitativo e quantitativo.**
 * 📊**Criação de dashboard aplicados a negócios, utilizando ferramentas como Power BI e Excel.**
