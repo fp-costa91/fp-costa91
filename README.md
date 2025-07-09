@@ -1,19 +1,16 @@
 ### Bem vindos, Filipe Pereira aqui! 👋
 
-Empreendedor, estudante da graduação em Ciência de Dados pela Estácio de Sá e formado pelo Bootcamp TripleTen Brasil-Angola de Data Science.📚
+Sou Analista de Dados com experiência em transformar dados em informações estratégicas para apoiar uma tomada de decisão. 📚
+Tenho expertise sólida em análise de dados, qualidade de dados e criação de dashboards interativos utilizando ferramentas como Power BI, consultas e gerenciamento de banco de dados,
+SQL e Excel. Minha trajetória é marcada pela boa comunicação utilizando linguagem de negócio e aplicação de metodologias ágeis, como SCRUM e Kanban, para garantir a eficiência e agilidade na entrega de soluções. 📊
 
-No Bootcamp, desenvolvi diversos projetos e aprendi muito sobre as principais bibliotecas Python (pandas, numpy, matplotlib, plotly, scipy, scikit learn, entre outras),
-soluções para negócios utilizando Machine Learning, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei horas incontáveis ​​limpando, transformando e pré-processando conjuntos de dados.📊
+Aqui, você encontrará alguns projetos acadêmicos desenvolvidos, minhas participações em Hackatons, soluções de algumas demandas (utilizando pandas, numpy, matplotlib, plotly, scipy, scikit learn, entre outras), soluções para negócios utilizando Machine Learning, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e modelagem. E, claro, passei horas incontáveis ​​limpando, transformando e pré-processando conjuntos de dados.📊
 
-Trabalho principalmente com Python e SQL para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL . Também crio dashboards no Tableau e me viro bem com Power BI .
 
-Sou apaixonado por esportes!!! Tanto que, em 2021 decidi empreender com o Arena IF2, um complexo esportivo e 
-áreas relacionadas, como fisioterapia, quiropraxia e pilates!🏋️‍♂️
-Ao longo dos processos no empreendedorismo, eu acumulei capacidades que foram primordiais para o meu desenvolvimento pessoal e profissional, como:
-
-* 💰**Geração de relatórios financeiro, qualitativo e quantitativo.**
-* 📊**Criação de dashboard aplicados a negócios, utilizando ferramentas como Power BI e Excel.**
-* 🤓**Realização de processos de desenvolvimento e capacitação profissional dos funcionários.**
+Minha praia é negócios! 
+Gosto de trabalhar em equipe, integrando os diversos setores, e em um mundo onde a maioria dos profissinais são fluentes na linguagem técnica, meu diferencial é a a tradução para
+a linguagem de negócios, mantendo sempre uma comunicação clara e objetiva.
+Minhas habilidades incluem o domínio de DAX, M Language, VBA, Planilhas Google, Figma e gestão de bancos de dados. Com um olhar atento à qualidade dos dados e à otimização de processos, colaboro de forma proativa com equipes multidisciplinares para solucionar problemas complexos e gerar insights. 💰📊
 
 
 ### Minhas principais habilidades:
@@ -21,8 +18,14 @@ Ao longo dos processos no empreendedorismo, eu acumulei capacidades que foram pr
 * **SQL**
 * **Visualização( Matplotlib, Plotly, Seaborn)**
 * **ML (Sklearn)**
+* **PLN (Processamento de Linguagem Natural)**
 * **Power BI**
 * **Análise Estatística dos Dados**
+* **Gestão de Banco dd Dados**
+* **Excel Avançado**
+* **DAX**
+* **Metodologias Ágeis: Kanban & Scrum**
+* **Criação e Apresentação de Relatórios**
 
  ![image](https://github.com/fp-costa91/fp-costa91/assets/128493989/688d1794-5990-4839-b4c5-52c75ff6fd67)
 
