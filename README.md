@@ -1,6 +1,6 @@
 ### Bem vindos, Filipe Pereira aqui! 👋
 
-Sou Analista de Dados com experiência em transformar dados em informações estratégicas para apoiar uma tomada de decisão. 📚
+Sou Analista de Dados, graduado em Engenharia Civil e Ciência de Dados, com experiência em transformar dados em informações estratégicas para apoiar uma tomada de decisão. 📚
 Tenho expertise sólida em análise de dados, qualidade de dados e criação de dashboards interativos utilizando ferramentas como Power BI, consultas e gerenciamento de banco de dados,
 SQL e Excel. Minha trajetória é marcada pela boa comunicação utilizando linguagem de negócio e aplicação de metodologias ágeis, como SCRUM e Kanban, para garantir a eficiência e agilidade na entrega de soluções. 📊
 
